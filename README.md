@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @den82721
-- 👀 I’m interested in PHP, Go
+- 👀 I’m interested in Go
 - 💞️ Eager to work in opensource projects
 - 📫 How to reach me - @den82721 telegram, you are welcome !
 
